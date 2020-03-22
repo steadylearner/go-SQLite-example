@@ -10,14 +10,6 @@ First, help the models packages ready to work with main package.
 $mv models && go build
 ```
 
-You can also optionally set up live edit environment with nodemon.
-
-```console
-$yarn
-```
-
-Then, you can use $./go.sh instead of manually typing $go run main.go
-
 ## How to setup SQLite database
 
 You can manually handle SQLite database. [Refer to the documenation for the SQLite CLI.](https://sqlite.org/cli.html)
