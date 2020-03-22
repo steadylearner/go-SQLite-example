@@ -41,6 +41,6 @@ Use one of commands below to test CRULD(Create, Read, Update, List, Delete) user
 $go run main.go -action=create
 $go run main.go -action=get
 $go run main.go -action=update
-$go run main.go -action=delete
 $go run main.go -action=list
+$go run main.go -action=delete
 ```
