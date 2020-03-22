@@ -1,4 +1,4 @@
-# Test SQLite CRUD operations with Goalng
+# Test SQLite with Go
 
 Use this CLI example to learn how to use Golang with SQLite. Modify and reuse some parts of this to make a web app etc.
 
